@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 :computer: Backend developer Node.js
-:pencil: Generador de contenido autodidacta
+:pencil: Creativo y resolutivo
 :eyeglasses: programador con todas las de la ley
-:family: ¡¡Sere un gran papa!!
 
 ### Vias de contacto
 ![Website](https://img.shields.io/badge/yosuadcastillo.com-up-blue?
