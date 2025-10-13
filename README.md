@@ -11,7 +11,7 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:activity-->
 
-<!--RECENT_ACTIVITY:last_update--> 
+<!--RECENT_ACTIVITY:start-->
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/yosuadcastillo/yosuadcastillo)
