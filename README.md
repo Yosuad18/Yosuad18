@@ -9,9 +9,9 @@
 )
 
 ### :zap: Actividad reciente
-<!--STAR_SECTION:activity-->
+<!--RECENT_ACTIVITY:activity-->
 
-<!--END_SECTION:activity--> 
+<!--RECENT_ACTIVITY:last_update--> 
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/yosuadcastillo/yosuadcastillo)
